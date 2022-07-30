@@ -1,0 +1,421 @@
+[08-Jul-2022 15:09:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[08-Jul-2022 15:09:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[08-Jul-2022 15:09:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[08-Jul-2022 15:09:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[09-Jul-2022 14:26:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 16
+[09-Jul-2022 16:10:34 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 31
+[09-Jul-2022 16:30:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 57
+[09-Jul-2022 16:31:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 58
+[09-Jul-2022 16:42:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 60
+[09-Jul-2022 16:43:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 61
+[09-Jul-2022 17:06:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 61
+[09-Jul-2022 17:06:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 53
+[09-Jul-2022 17:06:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 54
+[09-Jul-2022 17:07:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 53
+[09-Jul-2022 17:07:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 55
+[09-Jul-2022 17:08:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 52
+[09-Jul-2022 17:08:43 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 52
+[09-Jul-2022 17:08:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 52
+[09-Jul-2022 17:09:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 51
+[09-Jul-2022 17:10:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 47
+[10-Jul-2022 12:26:23 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php:141
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php(321): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\cache.php(154): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(281): wp_cache_get('alloptions', 'options', false)
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(167): wp_load_alloptions()
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(968): get_option('stylesheet')
+#5 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(1006): get_theme_mods()
+#6 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\inc\customizer.php(273): get_t in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php on line 141
+[10-Jul-2022 12:26:57 UTC] PHP Warning:  include(../src/sass/theme.css): failed to open stream: No such file or directory in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 19
+[10-Jul-2022 12:26:57 UTC] PHP Stack trace:
+[10-Jul-2022 12:26:57 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[10-Jul-2022 12:26:57 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[10-Jul-2022 12:26:57 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[10-Jul-2022 12:26:57 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[10-Jul-2022 12:26:57 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:13
+[10-Jul-2022 12:26:57 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[10-Jul-2022 12:26:57 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[10-Jul-2022 12:26:57 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[10-Jul-2022 12:26:57 UTC] PHP Warning:  include(): Failed opening '../src/sass/theme.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 19
+[10-Jul-2022 12:26:57 UTC] PHP Stack trace:
+[10-Jul-2022 12:26:57 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[10-Jul-2022 12:26:57 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[10-Jul-2022 12:26:57 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[10-Jul-2022 12:26:57 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[10-Jul-2022 12:26:57 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:13
+[10-Jul-2022 12:26:57 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[10-Jul-2022 12:26:57 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[10-Jul-2022 12:26:57 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[10-Jul-2022 12:27:11 UTC] PHP Warning:  include(../src/sass/_theme.css): failed to open stream: No such file or directory in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 19
+[10-Jul-2022 12:27:11 UTC] PHP Stack trace:
+[10-Jul-2022 12:27:11 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[10-Jul-2022 12:27:11 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[10-Jul-2022 12:27:11 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[10-Jul-2022 12:27:11 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[10-Jul-2022 12:27:11 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:13
+[10-Jul-2022 12:27:11 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[10-Jul-2022 12:27:11 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[10-Jul-2022 12:27:11 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[10-Jul-2022 12:27:11 UTC] PHP Warning:  include(): Failed opening '../src/sass/_theme.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 19
+[10-Jul-2022 12:27:11 UTC] PHP Stack trace:
+[10-Jul-2022 12:27:11 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[10-Jul-2022 12:27:11 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[10-Jul-2022 12:27:11 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[10-Jul-2022 12:27:11 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[10-Jul-2022 12:27:11 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:13
+[10-Jul-2022 12:27:11 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[10-Jul-2022 12:27:11 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[10-Jul-2022 12:27:11 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[10-Jul-2022 12:28:03 UTC] PHP Warning:  include(../src/sass/_theme.css): failed to open stream: No such file or directory in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 19
+[10-Jul-2022 12:28:03 UTC] PHP Stack trace:
+[10-Jul-2022 12:28:03 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[10-Jul-2022 12:28:03 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[10-Jul-2022 12:28:03 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[10-Jul-2022 12:28:03 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[10-Jul-2022 12:28:03 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:13
+[10-Jul-2022 12:28:03 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[10-Jul-2022 12:28:03 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[10-Jul-2022 12:28:03 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[10-Jul-2022 12:28:03 UTC] PHP Warning:  include(): Failed opening '../src/sass/_theme.css' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 19
+[10-Jul-2022 12:28:03 UTC] PHP Stack trace:
+[10-Jul-2022 12:28:03 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[10-Jul-2022 12:28:03 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[10-Jul-2022 12:28:03 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[10-Jul-2022 12:28:03 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[10-Jul-2022 12:28:03 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:13
+[10-Jul-2022 12:28:03 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[10-Jul-2022 12:28:03 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[10-Jul-2022 12:28:03 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[10-Jul-2022 14:42:08 UTC] PHP Parse error:  syntax error, unexpected '"_theme"' (T_CONSTANT_ENCAPSED_STRING) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 13
+[10-Jul-2022 14:42:20 UTC] PHP Parse error:  syntax error, unexpected '"theme"' (T_CONSTANT_ENCAPSED_STRING) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 13
+[10-Jul-2022 14:42:22 UTC] PHP Parse error:  syntax error, unexpected '"theme"' (T_CONSTANT_ENCAPSED_STRING) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 13
+[10-Jul-2022 14:43:37 UTC] PHP Parse error:  syntax error, unexpected '"_theme"' (T_CONSTANT_ENCAPSED_STRING) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php on line 13
+[10-Jul-2022 15:11:18 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 13
+[10-Jul-2022 16:08:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[10-Jul-2022 16:08:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[10-Jul-2022 16:08:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[10-Jul-2022 16:08:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_imagick.dll (Impossibile trovare il modulo specificato.), C:/Users/valen/AppData/Local/Programs/Local/resources/extraResources/lightning-services/php-7.4.1+18/bin/win64/ext\php_php_imagick.dll.dll (Impossibile trovare il modulo specificato.)) in Unknown on line 0
+[10-Jul-2022 16:22:58 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php:141
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php(321): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\cache.php(154): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(281): wp_cache_get('alloptions', 'options', false)
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(167): wp_load_alloptions()
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(968): get_option('stylesheet')
+#5 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(1006): get_theme_mods()
+#6 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\inc\customizer.php(273): get_t in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php on line 141
+[10-Jul-2022 16:22:59 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php:141
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php(321): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\cache.php(154): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(281): wp_cache_get('alloptions', 'options', false)
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(167): wp_load_alloptions()
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(968): get_option('stylesheet')
+#5 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(1006): get_theme_mods()
+#6 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\inc\customizer.php(273): get_t in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php on line 141
+[10-Jul-2022 16:23:00 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php:141
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php(321): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\cache.php(154): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(281): wp_cache_get('alloptions', 'options', false)
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\option.php(167): wp_load_alloptions()
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(968): get_option('stylesheet')
+#5 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\theme.php(1006): get_theme_mods()
+#6 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\inc\customizer.php(273): get_t in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-object-cache.php on line 141
+[10-Jul-2022 16:41:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 13
+[11-Jul-2022 09:21:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 13
+[11-Jul-2022 09:21:51 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 13
+[11-Jul-2022 09:32:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 14
+[11-Jul-2022 09:33:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 14
+[11-Jul-2022 09:33:28 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 14
+[11-Jul-2022 09:33:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 14
+[11-Jul-2022 09:34:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 14
+[11-Jul-2022 09:34:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 14
+[11-Jul-2022 09:40:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 13
+[11-Jul-2022 11:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:15:49 UTC] PHP Stack trace:
+[11-Jul-2022 11:15:49 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:15:49 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:15:49 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:15:49 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:15:49 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:15
+[11-Jul-2022 11:15:49 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:15:49 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:15:49 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:15:49 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:15:49 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:15:49 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:15:49 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:15:49 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:15:49 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:15:49 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:15:49 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:15:49 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:15:49 UTC] PHP Stack trace:
+[11-Jul-2022 11:15:49 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:15:49 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:15:49 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:15:49 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:15:49 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\404.php:11
+[11-Jul-2022 11:15:49 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:15:49 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:15:49 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:15:49 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:15:49 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:15:49 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:15:49 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:15:49 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:15:49 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:15:49 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:15:49 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:17:00 UTC] PHP Stack trace:
+[11-Jul-2022 11:17:00 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:17:00 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:17:00 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:17:00 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:17:00 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:15
+[11-Jul-2022 11:17:00 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:17:00 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:17:00 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:17:00 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:17:00 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:17:00 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:00 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:00 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:17:00 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:17:00 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:00 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:17:01 UTC] PHP Stack trace:
+[11-Jul-2022 11:17:01 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:17:01 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:17:01 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:17:01 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:17:01 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\404.php:11
+[11-Jul-2022 11:17:01 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:17:01 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:17:01 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:17:01 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:17:01 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:17:01 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:01 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:01 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:17:01 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:17:01 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:01 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:17:45 UTC] PHP Stack trace:
+[11-Jul-2022 11:17:45 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:17:45 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:17:45 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:17:45 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:17:45 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:15
+[11-Jul-2022 11:17:45 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:17:45 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:17:45 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:17:45 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:17:45 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:17:45 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:45 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:45 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:17:45 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:17:45 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:45 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:17:46 UTC] PHP Stack trace:
+[11-Jul-2022 11:17:46 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:17:46 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:17:46 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:17:46 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:17:46 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\404.php:11
+[11-Jul-2022 11:17:46 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:17:46 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:17:46 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:17:46 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:17:46 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:17:46 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:46 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:17:46 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:17:46 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:17:46 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:17:46 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:19:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:19:38 UTC] PHP Stack trace:
+[11-Jul-2022 11:19:38 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:19:38 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:19:38 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:19:38 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:19:38 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php:15
+[11-Jul-2022 11:19:38 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:19:38 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:19:38 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:19:38 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:19:38 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:19:38 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:19:38 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:19:38 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:19:38 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:19:38 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:19:38 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:19:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'theme' not found or invalid function name in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php on line 307
+[11-Jul-2022 11:19:38 UTC] PHP Stack trace:
+[11-Jul-2022 11:19:38 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[11-Jul-2022 11:19:38 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[11-Jul-2022 11:19:38 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:19
+[11-Jul-2022 11:19:38 UTC] PHP   4. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template-loader.php:106
+[11-Jul-2022 11:19:38 UTC] PHP   5. get_header() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\404.php:11
+[11-Jul-2022 11:19:38 UTC] PHP   6. locate_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:48
+[11-Jul-2022 11:19:38 UTC] PHP   7. load_template() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:716
+[11-Jul-2022 11:19:38 UTC] PHP   8. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\template.php:770
+[11-Jul-2022 11:19:38 UTC] PHP   9. wp_head() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\header.php:27
+[11-Jul-2022 11:19:38 UTC] PHP  10. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\general-template.php:3042
+[11-Jul-2022 11:19:38 UTC] PHP  11. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:19:38 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:19:38 UTC] PHP  13. wp_enqueue_scripts() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:307
+[11-Jul-2022 11:19:38 UTC] PHP  14. do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\script-loader.php:2156
+[11-Jul-2022 11:19:38 UTC] PHP  15. WP_Hook->do_action() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:476
+[11-Jul-2022 11:19:38 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\class-wp-hook.php:331
+[11-Jul-2022 11:20:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 50 and at least 2 expected in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php:400
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php(50): add_action('wp_enqueue_scri...')
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php(566): include('C:\\Users\\valen\\...')
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php(91): require_once('C:\\Users\\valen\\...')
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php(50): require_once('C:\\Users\\valen\\...')
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php(13): require_once('C:\\Users\\valen\\...')
+#5 C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php(17): require('C:\\Users\\valen\\...')
+#6 {main}
+  thrown in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-includes\plugin.php on line 400
+[11-Jul-2022 13:30:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\page-templates\template-home.php on line 16
+[13-Jul-2022 16:40:29 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 61
+[13-Jul-2022 16:40:29 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 61
+[13-Jul-2022 16:53:45 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 60
+[13-Jul-2022 16:53:45 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 60
+[13-Jul-2022 16:53:57 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 60
+[13-Jul-2022 16:53:57 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 60
+[13-Jul-2022 16:54:28 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 60
+[13-Jul-2022 16:54:28 UTC] PHP Parse error:  syntax error, unexpected '=' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 60
+[13-Jul-2022 17:35:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 58
+[13-Jul-2022 17:35:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 58
+[13-Jul-2022 17:35:23 UTC] PHP Warning:  Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:23 UTC] PHP Stack trace:
+[13-Jul-2022 17:35:23 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[13-Jul-2022 17:35:23 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[13-Jul-2022 17:35:23 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:13
+[13-Jul-2022 17:35:23 UTC] PHP   4. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php:50
+[13-Jul-2022 17:35:23 UTC] PHP   5. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php:91
+[13-Jul-2022 17:35:23 UTC] PHP   6. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php:566
+[13-Jul-2022 17:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getElementById() in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php:54
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php(566): include()
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php(91): require_once('C:\\Users\\valen\\...')
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php(50): require_once('C:\\Users\\valen\\...')
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php(13): require_once('C:\\Users\\valen\\...')
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php(17): require('C:\\Users\\valen\\...')
+#5 {main}
+  thrown in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:23 UTC] PHP Warning:  Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:23 UTC] PHP Stack trace:
+[13-Jul-2022 17:35:23 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[13-Jul-2022 17:35:23 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[13-Jul-2022 17:35:23 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:13
+[13-Jul-2022 17:35:23 UTC] PHP   4. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php:50
+[13-Jul-2022 17:35:23 UTC] PHP   5. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php:91
+[13-Jul-2022 17:35:23 UTC] PHP   6. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php:566
+[13-Jul-2022 17:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getElementById() in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php:54
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php(566): include()
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php(91): require_once('C:\\Users\\valen\\...')
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php(50): require_once('C:\\Users\\valen\\...')
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php(13): require_once('C:\\Users\\valen\\...')
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php(17): require('C:\\Users\\valen\\...')
+#5 {main}
+  thrown in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:39 UTC] PHP Warning:  Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:39 UTC] PHP Stack trace:
+[13-Jul-2022 17:35:39 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[13-Jul-2022 17:35:39 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[13-Jul-2022 17:35:39 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:13
+[13-Jul-2022 17:35:39 UTC] PHP   4. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php:50
+[13-Jul-2022 17:35:39 UTC] PHP   5. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php:91
+[13-Jul-2022 17:35:39 UTC] PHP   6. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php:566
+[13-Jul-2022 17:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getElementById() in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php:54
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php(566): include()
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php(91): require_once('C:\\Users\\valen\\...')
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php(50): require_once('C:\\Users\\valen\\...')
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php(13): require_once('C:\\Users\\valen\\...')
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php(17): require('C:\\Users\\valen\\...')
+#5 {main}
+  thrown in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:39 UTC] PHP Warning:  Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:39 UTC] PHP Stack trace:
+[13-Jul-2022 17:35:39 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[13-Jul-2022 17:35:39 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[13-Jul-2022 17:35:39 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:13
+[13-Jul-2022 17:35:39 UTC] PHP   4. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php:50
+[13-Jul-2022 17:35:39 UTC] PHP   5. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php:91
+[13-Jul-2022 17:35:39 UTC] PHP   6. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php:566
+[13-Jul-2022 17:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getElementById() in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php:54
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php(566): include()
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php(91): require_once('C:\\Users\\valen\\...')
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php(50): require_once('C:\\Users\\valen\\...')
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php(13): require_once('C:\\Users\\valen\\...')
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php(17): require('C:\\Users\\valen\\...')
+#5 {main}
+  thrown in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:41 UTC] PHP Warning:  Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:41 UTC] PHP Stack trace:
+[13-Jul-2022 17:35:41 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[13-Jul-2022 17:35:41 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[13-Jul-2022 17:35:41 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:13
+[13-Jul-2022 17:35:41 UTC] PHP   4. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php:50
+[13-Jul-2022 17:35:41 UTC] PHP   5. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php:91
+[13-Jul-2022 17:35:41 UTC] PHP   6. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php:566
+[13-Jul-2022 17:35:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getElementById() in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php:54
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php(566): include()
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php(91): require_once('C:\\Users\\valen\\...')
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php(50): require_once('C:\\Users\\valen\\...')
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php(13): require_once('C:\\Users\\valen\\...')
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php(17): require('C:\\Users\\valen\\...')
+#5 {main}
+  thrown in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:41 UTC] PHP Warning:  Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 17:35:41 UTC] PHP Stack trace:
+[13-Jul-2022 17:35:41 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:0
+[13-Jul-2022 17:35:41 UTC] PHP   2. require() C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php:17
+[13-Jul-2022 17:35:41 UTC] PHP   3. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php:13
+[13-Jul-2022 17:35:41 UTC] PHP   4. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php:50
+[13-Jul-2022 17:35:41 UTC] PHP   5. require_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php:91
+[13-Jul-2022 17:35:41 UTC] PHP   6. include() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php:566
+[13-Jul-2022 17:35:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getElementById() in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php:54
+Stack trace:
+#0 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-settings.php(566): include()
+#1 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-config.php(91): require_once('C:\\Users\\valen\\...')
+#2 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-load.php(50): require_once('C:\\Users\\valen\\...')
+#3 C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-blog-header.php(13): require_once('C:\\Users\\valen\\...')
+#4 C:\Users\valen\Local Sites\portfoliovdv\app\public\index.php(17): require('C:\\Users\\valen\\...')
+#5 {main}
+  thrown in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 19:33:16 UTC] PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 19:33:16 UTC] PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 19:33:36 UTC] PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[13-Jul-2022 19:33:36 UTC] PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[25-Jul-2022 17:17:26 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 59
+[28-Jul-2022 16:29:36 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[28-Jul-2022 16:29:36 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '{' or '$' in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\themes\valentina\functions.php on line 54
+[28-Jul-2022 17:24:25 UTC] PHP Warning:  Use of undefined constant SECURE_AUTH_KEY - assumed 'SECURE_AUTH_KEY' (this will throw an Error in a future version of PHP) in C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\plugins\greenshift-animation-and-page-builder-blocks\fs\includes\class-freemius.php on line 4061
+[28-Jul-2022 17:24:25 UTC] PHP Stack trace:
+[28-Jul-2022 17:24:25 UTC] PHP   1. {main}() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-admin\plugins.php:0
+[28-Jul-2022 17:24:25 UTC] PHP   2. activate_plugin() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-admin\plugins.php:58
+[28-Jul-2022 17:24:25 UTC] PHP   3. plugin_sandbox_scrape() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-admin\includes\plugin.php:661
+[28-Jul-2022 17:24:25 UTC] PHP   4. include_once() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-admin\includes\plugin.php:2313
+[28-Jul-2022 17:24:25 UTC] PHP   5. gspb_freemius() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\plugins\greenshift-animation-and-page-builder-blocks\plugin.php:245
+[28-Jul-2022 17:24:25 UTC] PHP   6. fs_dynamic_init() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\plugins\greenshift-animation-and-page-builder-blocks\plugin.php:223
+[28-Jul-2022 17:24:25 UTC] PHP   7. Freemius->dynamic_init() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\plugins\greenshift-animation-and-page-builder-blocks\fs\start.php:522
+[28-Jul-2022 17:24:25 UTC] PHP   8. Freemius->has_api_connectivity() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\plugins\greenshift-animation-and-page-builder-blocks\fs\includes\class-freemius.php:4818
+[28-Jul-2022 17:24:25 UTC] PHP   9. Freemius->ping() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\plugins\greenshift-animation-and-page-builder-blocks\fs\includes\class-freemius.php:3964
+[28-Jul-2022 17:24:25 UTC] PHP  10. Freemius->get_anonymous_id() C:\Users\valen\Local Sites\portfoliovdv\app\public\wp-content\plugins\greenshift-animation-and-page-builder-blocks\fs\includes\class-freemius.php:3912

@@ -1,0 +1,24 @@
+
+$secondary:#1a3c84;
+
+.header {
+    background: $secondary;
+}
+
+body {
+    color:#ff0000
+}
+
+.container {
+    height: 100px;
+    background: $secondary;
+    display: flex;
+
+    .contact-info{
+        display:flex;       
+    }
+}
+
+p{
+    background-color:$secondary;
+}

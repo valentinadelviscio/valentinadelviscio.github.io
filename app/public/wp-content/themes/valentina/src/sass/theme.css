@@ -1,0 +1,24 @@
+
+.header {
+    background: #ffc400;
+}
+
+body {
+    color:#0000ff
+
+}
+
+.container {
+    height: 100px;
+    background: #4400ff;
+    display: flex;
+
+}
+
+p{
+    background-color:#eeff00;
+}
+
+.h1 {
+    color:#4400ff
+}
